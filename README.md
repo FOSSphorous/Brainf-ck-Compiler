@@ -1,4 +1,4 @@
-Brainf-ck-Compiler
+Brainf**k Compiler
 ==================
 
-A CLI based tool to compile brainf**ck
+A CLI based tool to compile brainf**k
